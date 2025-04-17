@@ -12,8 +12,10 @@ assignees: yureutaejin
 
 ## Detailed Description
 
-## Acceptance Criteria
+### Acceptance Criteria
 
-## References / Related Issues
+## To-Do / Possible Solutions
+
+## Related Issues / References
 
 ## Additional Notes

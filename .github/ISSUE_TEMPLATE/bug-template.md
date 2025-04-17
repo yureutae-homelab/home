@@ -8,10 +8,20 @@ assignees: yureutaejin
 
 # Description
 
-## Context
+## Detailed Description
+
+### Environment
+
+### Steps to Reproduce
+
+### Expected Behavior
+
+### Actual Behavior
 
 ### Additional Information (Log, Screenshot, etc...)
 
-## To-Do
+## To-Do / Possible Solutions
 
-## References
+## Related Issues / References
+
+## Additional Notes
